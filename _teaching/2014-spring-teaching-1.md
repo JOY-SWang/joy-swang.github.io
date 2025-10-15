@@ -1,5 +1,5 @@
 ---
-title: "Project Manager of National Key R&D Program of China"
+title: "Project Manager - National Key R&D Program of China - Peking University, China"
 collection: teaching
 type: "Undergraduate course"
 permalink: /research/sleep
@@ -8,9 +8,7 @@ date:  2022-11-01
 location: "Beijing, China"
 ---
 
-Duration: Nov 2022 - Nov 2025
-
-*Research on Intelligent Diagnosis and Treatment Models and Efficacy Evaluation for Insomnia Disorders* (No. 2022YFC2503903). Supervised by Prof. Wang Hanpin and Huang Yu Together with Prof. Guan Ruiyuan, director of Department of Medical Psychology, School of Medical Humanities, Peking University. Published Work in AAAI2025.
+Duration: Nov 2022 - Nov 2025. *Research on Intelligent Diagnosis and Treatment Models and Efficacy Evaluation for Insomnia Disorders* (No. 2022YFC2503903). Supervised by Prof. Wang Hanpin and Huang Yu Together with Prof. Guan Ruiyuan, director of Department of Medical Psychology, School of Medical Humanities, Peking University. Published Work in AAAI2025.
 
 - Coordinated closely with multiple top-tier hospitals and professionals, and gained **3 publications, 5 authorized invention patents and 1 software copyright**.
 - **Data Analysis**: Processed clinical data(sleep logs, EEG, and fMRI data) with **missing modalities completion**.

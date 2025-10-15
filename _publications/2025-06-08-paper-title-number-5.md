@@ -7,7 +7,7 @@ excerpt: 'STAMPsy is a spatiotemporal-aware mixed-type dialogue dataset for onli
 date: 2025-02-01
 venue: 'AAAI2025, Oral Presetation'
 paperurl: 'https://arxiv.org/abs/2412.16674'
-citation: 'Wang, J., Huang, Y., Liu, Z., Xu, D., Wang, C., Shi, X., ... \& Huang, Y.  (2025). STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling. Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 24. 2025.'
+citation: 'Wang, J., Huang, Y., Liu, Z., Xu, D., Wang, C., Shi, X., ... \& Huang, Y.  (2025). STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling. Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 24. 2025. STAMPsy is a spatiotemporal-aware mixed-type dialogue dataset for online psychological counseling. With helping skills, spatiotemporal-stamps and iterative self-feedback, effective Self-STAMPsy can clarify goals, be world aware and self-optimizing. '
 ---
 
 
