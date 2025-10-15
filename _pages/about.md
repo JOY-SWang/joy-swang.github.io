@@ -22,6 +22,11 @@ Currently, I am applying for Ph.D. programs. And I am always open to academic di
 
 
 
+
 For more info
+======
+I'm always excited to connect and explore new opportunities. Whether it's a potential project or just a friendly hello, drop me a line at joysw@stu.pku.edu.cn or joywang909@gmail.com.
+
+Beyond the Bio
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Outside my work/studies, I'm passionate about Volleyball(playing as a Blocker on the varsity team, which cultivated sharp reflexes, teamwork, and strategic thinking under pressure), Calligraphy (highest certification from China's National Calligraphy Association), and Cooking, and I always have a passion for bringing ideas to life.
