@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/ConfAudio
 excerpt: 'This paper is submitted to ICLR2026.'
-date: 2025-09
+date: 2025-09-01
 venue: 'ICLR2026 (under review)'
 paperurl: 'http://academicpages.github.io/files/RepresentitivePaper_Think_Out_LoudPause_in_Silence.pdf'
 slidesurl: 'https://github.com/JOY-SWang/R1-AQA-Omni'

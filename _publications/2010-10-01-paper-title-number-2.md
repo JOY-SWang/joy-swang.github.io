@@ -10,4 +10,4 @@ paperurl: 'https://arxiv.org/pdf/2508.05083'
 citation: 'Xu D., Wang J., Chai Z. ...\& Hu Y. MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models (with Dr. Huamin Zhang}), arXiv preprint, arXiv:2508.05083.'
 ---
 
-We constructed a \textbf{medical multimodal knowledge-editing benchmark} with FT, KE, IKE, MEND, SERAC, and evaluated on 10+ knowledge-editing models, drawing on cognitive science and the four-phase clinical care.
+We constructed a **medical multimodal knowledge-editing benchmark** with FT, KE, IKE, MEND, SERAC, and evaluated on 10+ knowledge-editing models, drawing on cognitive science and the four-phase clinical care.
