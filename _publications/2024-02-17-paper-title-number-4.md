@@ -1,13 +1,21 @@
 ---
-title: "Paper Title Number 4"
+title: "Think Out Loud, Pause in Silence: Confidence-Guided Reflect–Pause–Abort for Robust Audio Perceptual Understanding"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/ConfAudio
+excerpt: 'This paper is submitted to ICLR2026.'
+date: 2025-09
+venue: 'ICLR2026 (under review)'
+paperurl: 'http://academicpages.github.io/files/RepresentitivePaper_Think_Out_LoudPause_in_Silence.pdf'
+slidesurl: 'https://github.com/JOY-SWang/R1-AQA-Omni'
+citation: 'Wang J., Niu Y., Xu D. \&  Wei Z. Think Out Loud, Pause in Silence: Confidence-Guided Reflect–Pause–Abort for Robust Audio Perceptual Understanding", submitted to ICLR2026.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We proposed an adaptive framework that couples **perceptual** grounding with reasoning for **LALMs**, ConfAudio, which unifies explicit, reflective reasoning (**fine-tuned** on our novel dataset) with implicit, **pause-driven latent  GRPO** training, via a controller monitors **lowest-group-confidence** and a **composite reward function**.
+
+![Overview](/images/paper/ICLRoverview.png)
+
+![Sample](/images/paper/ICLRsample.png)
+
+![Latent](/images/paper/ICLRlatent.png)
+

@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/MedMKEB
+excerpt: 'This paper is about Knowledge Editing.'
+date: 2025-08
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://arxiv.org/pdf/2508.05083'
+citation: 'Xu D., Wang J., Chai Z. ...\& Hu Y. MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models (with Dr. Huamin Zhang}), arXiv preprint, arXiv:2508.05083.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We constructed a \textbf{medical multimodal knowledge-editing benchmark} with FT, KE, IKE, MEND, SERAC, and evaluated on 10+ knowledge-editing models, drawing on cognitive science and the four-phase clinical care.
