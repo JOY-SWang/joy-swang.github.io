@@ -15,11 +15,17 @@ Currently, I am applying for Ph.D. programs. And I am always open to academic di
 
 [//]: # (======)
 
-
-
-📖Research
+📖 Publications and Preprint
 ======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
+🧐 Research Experiences
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 
