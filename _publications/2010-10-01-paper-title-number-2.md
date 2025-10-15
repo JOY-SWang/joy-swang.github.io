@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/MedMKEB
 excerpt: 'This paper is about Knowledge Editing.'
-date: 2025-08
-venue: 'Journal 1'
+date: 2025-08-01
+venue: 'AAAI2026'
 paperurl: 'https://arxiv.org/pdf/2508.05083'
 citation: 'Xu D., Wang J., Chai Z. ...\& Hu Y. MedMKEB: A Comprehensive Knowledge Editing Benchmark for Medical Multimodal Large Language Models (with Dr. Huamin Zhang}), arXiv preprint, arXiv:2508.05083.'
 ---
