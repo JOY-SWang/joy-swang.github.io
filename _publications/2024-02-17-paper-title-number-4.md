@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/ConfAudio
 excerpt: 'This paper is going to submitted to ACL2026.'
 date: 2025-09-01
-venue: 'ICLR2026 (under review)'
-paperurl: 'http://academicpages.github.io/files/RepresentitivePaper_Think_Out_LoudPause_in_Silence.pdf'
+venue: 'ACL2025 (Under Review)'
+paperurl: '/Users/joysw/PycharmProjects/joy-swang.github.io/files/Audio_ACL2026.pdf'
 slidesurl: 'https://github.com/JOY-SWang/R1-AQA-Omni'
-citation: 'Wang J., Niu Y., Xu D. \&  Wei Z. We proposed an adaptive framework that couples perceptual grounding with reasoning for LALMs, ConfAudio, which unifies explicit, reflective reasoning (fine-tuned on our novel dataset) with implicit, pause-driven latent  GRPO training, via a controller monitors lowest-group-confidence and a composite reward function.'
+citation: 'Wang J., Niu Y., Xu D. \&  Wei Z. We proposed an adaptive framework that couples perceptual grounding with reasoning for LALMs, HyPER, which unifies explicit, reflective reasoning (fine-tuned on our novel dataset) with implicit, pause-driven latent  GRPO training, via a controller monitors lowest-group-confidence and a composite reward function.'
 ---
 The failures of Large Audio Language Models (LALMs) primarily stem from two categories of errors: perceptual errors, such as misidentifying background sounds or speaker turns, and reasoning errors, where the generated rationale becomes decoupled from the acoustic evidence.
 To address these challenges, we propose an adaptive framework that couples perceptual grounding with computational resources that expand only when necessary.

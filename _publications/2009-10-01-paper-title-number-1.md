@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/SpeechMedAssist
 excerpt: 'A SpeechLM natively capable of conducting multi-turn speech-based interactions with patients, with modality alignment, satefy and efficiency check.'
 date: 2025-09-01
-venue: 'ICLR2026 (under review)'
+venue: 'ACL2026 (under review)'
 slidesurl: 'https://sirrychen.github.io/share/2025-09-22-SpeechMedAssist.html'
-paperurl: 'https://anonymous.4open.science/r/SpeechMedAssist-Anonymous/'
+paperurl: 'https://arxiv.org/pdf/2601.04638'
 citation: 'Chen S., Wang J., Chen W., \&  Wei Z. A SpeechLM natively capable of conducting multi-turn speech-based interactions with patients, with modality alignment, satefy and efficiency check.'
 ---
 

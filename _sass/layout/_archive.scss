@@ -114,6 +114,12 @@
     flex: 1;
   }
 
+  .archive__item-showcase {
+    @include breakpoint($small) {
+      flex-direction: column;
+    }
+  }
+
   a {
     text-decoration: none;
   }

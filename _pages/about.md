@@ -30,6 +30,9 @@ My research lies at the intersection of:
 
 🧐 **Research Experiences**
 ======
+
+![My Research Journey]({{ base_path }}/images/research/myJourney.png)
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}

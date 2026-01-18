@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /research/sleep
 venue: "Peking University"
 date:  2022-11-01
+advisor: "Prof. HUANG Yu, Cheung Kong Scholar"
 location: "Beijing, China"
 ---
 

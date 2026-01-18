@@ -49,6 +49,12 @@
           {{ post.date | default: "1900-01-01" | date: "%Y" }}
         </p>
 
+        {% if post.advisor %}
+          <p class="archive__item-advisor" style="margin-bottom: 0.5em; font-size: 0.9em; color: #444;">
+            <i class="fas fa-fw fa-user-tie" aria-hidden="true"></i> <strong>Advisor:</strong> {{ post.advisor }}
+          </p>
+        {% endif %}
+
         {% if post.excerpt %}
           <p class="archive__item-excerpt" itemprop="description" style="font-size: 0.9em; line-height: 1.5; margin-bottom: 0.8em;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         {% endif %}
@@ -64,6 +70,21 @@
             <a href="{{ post.bibtexurl }}" class="btn btn--inverse btn--small" style="border-radius: 20px; padding: 4px 12px; margin-right: 5px;"><i class="fas fa-ellipsis-h"></i> Others</a>
           {% endif %}
         </div>
+
+        {% if post.image1 or post.image2 %}
+          <div class="archive__item-showcase" style="display: flex; gap: 15px; margin-top: 15px;">
+            {% if post.image1 %}
+              <div style="flex: 1;">
+                <img src="{{ post.image1 | prepend: base_path }}" alt="" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+              </div>
+            {% endif %}
+            {% if post.image2 %}
+              <div style="flex: 1;">
+                <img src="{{ post.image2 | prepend: base_path }}" alt="" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+              </div>
+            {% endif %}
+          </div>
+        {% endif %}
       </div>
     </div>
   </article>
